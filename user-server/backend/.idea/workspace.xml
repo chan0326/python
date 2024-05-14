@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48565cc2-591f-481f-a748-d2ed898461c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/atoms/button/card-button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/atoms/button/link-button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/articles/model/article.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/articles/module/article-columns.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/articles/service/article-api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/articles/service/article-init.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/articles/service/article-service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/articles/service/article-slice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/boards/model/board.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/boards/module/board-columns.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/boards/service/board-api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/boards/service/board-service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/boards/service/board-slice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/common/configs/axios-config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/common/enums/API.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/common/enums/PG.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/common/enums/RQ.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/common/module/header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/common/style/cell.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/counter/model/counter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/counter/service/counter-init.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/counter/service/counter-slice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/demo/module/mui-demo-columns.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/demo/module/mui-demo-rows.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/users/model/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/users/module/user-columns.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/users/service/user-api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/users/service/user-service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/component/users/service/user-slice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/article/detail/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/article/list/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/article/search-board/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/article/write/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/board/detail/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/board/list/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/demos/counter-demo/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/demos/mui-demo/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/demos/redux-counter/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/user/detail/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/user/join/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/app/pages/user/list/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/next.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/redux/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/redux/reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/redux/redux-provider.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin-server/frontend/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/ApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/ApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/command/CommandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/command/CommandService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/MessengerVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/MessengerVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/files/ImageVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/files/ImageVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/files/PropertiesVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/files/PropertiesVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/files/UploadResultVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/files/UploadResultVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/pagination/PageRequestVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/pagination/PageRequestVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/pagination/PageResultVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/pagination/PageResultVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/pagination/QnaPageRequestVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/component/pagination/QnaPageRequestVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/config/ServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/config/ServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/enums/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/enums/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/enums/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/enums/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/model/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/model/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/proxy/DateProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/proxy/DateProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/proxy/MathProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/proxy/MathProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/proxy/TypeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/proxy/TypeProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/query/QueryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/query/QueryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/service/UtilService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/service/UtilService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/service/UtilServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/service/UtilServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/sql/articleProcedure.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/sql/articleProcedure.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/sql/soccer-data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/sql/soccer-data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/sql/soccer-test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/sql/soccer-test.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/sql/soccer.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/common/sql/soccer.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/crawler/controller/CrawlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/crawler/controller/CrawlerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/crawler/repository/CrawlerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/crawler/repository/CrawlerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/crawler/service/CrawlerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/crawler/service/CrawlerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/crawler/service/CrawlerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/java/com/erichgamma/api/crawler/service/CrawlerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/test/java/com/erichgamma/api/ApiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/test/java/com/erichgamma/api/ApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/test/java/com/erichgamma/api/common/lambda/StreamOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/test/java/com/erichgamma/api/common/lambda/StreamOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/backend/src/test/resources/junit-platform.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/backend/src/test/resources/junit-platform.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/.husky/pre-commit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/.lintstagedrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/.lintstagedrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/.prettierrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/.prettierrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/.storybook/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/.storybook/preview.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/.storybook/preview.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/.test/setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/.test/setup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/next-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/public/_redirects" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/public/_redirects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/public/assets/fonts/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/public/assets/fonts/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/components/Heading/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/components/Heading/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/components/Heading/stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/components/Heading/stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/components/Heading/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/components/Heading/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/components/Heading/test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/components/Heading/test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/config/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/config/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/styles/global-styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/styles/global-styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/styles/render-theme.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/styles/render-theme.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/styles/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/styles/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/templates/Home/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/templates/Home/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/src/templates/Home/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/src/templates/Home/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/types/jest-styled-components.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/types/jest-styled-components.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/types/styled-components.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/types/styled-components.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../soccer-server/frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../soccer-server/frontend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/ApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/article/controller/ArticleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/article/model/Article.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/article/model/ArticleDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/article/repository/ArticleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/article/service/ArticleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/article/service/ArticleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/board/controller/BoardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/board/model/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/board/model/BoardDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/board/repository/BoardRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/board/service/BoardService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/board/service/BoardServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/command/CommandService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/MessengerVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/files/ImageVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/files/PropertiesVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/files/UploadResultVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/interceptor/AuthInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/pagination/PageRequestFileVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/pagination/PageRequestVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/pagination/PageResultVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/pagination/QnaPageRequestVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/security/JwtProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/component/security/TokenVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/config/ServerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/enums/ErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/enums/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/model/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/proxy/DateProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/proxy/MathProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/proxy/TypeProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/query/QueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/service/UtilService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/service/UtilServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/sql/articleProcedure.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/sql/soccer-data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/sql/soccer-test.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/common/sql/soccer.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/crawler/Crawler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/crawler/controller/CrawlerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/crawler/repository/CrawlerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/crawler/service/CrawlerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/crawler/service/CrawlerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/user/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/user/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/user/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/user/model/UserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/user/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/user/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erichgamma/api/user/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/erichgamma/api/ApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/erichgamma/api/article/ArticleServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/erichgamma/api/common/lambda/StreamOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/erichgamma/api/user/service/JwtPayload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/erichgamma/api/user/service/SubstringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/erichgamma/api/user/service/UserServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/junit-platform.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/atoms/button/card-button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/atoms/button/link-button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/atoms/button/move-button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/articles/model/article.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/articles/module/article-columns.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/articles/service/article-api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/articles/service/article-init.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/articles/service/article-service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/articles/service/article-slice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/boards/model/board.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/boards/module/board-columns.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/boards/service/board-api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/boards/service/board-service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/boards/service/board-slice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/common/configs/axios-config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/common/enums/API.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/common/enums/PG.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/common/enums/RQ.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/common/module/header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/common/style/cell.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/counter/model/counter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/counter/service/counter-init.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/counter/service/counter-slice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/demo/module/mui-demo-columns.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/demo/module/mui-demo-rows.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/users/model/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/users/module/user-columns.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/users/service/user-api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/users/service/user-service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/component/users/service/user-slice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/article/detail/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/article/list/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/article/save/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/board/detail/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/board/list/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/demos/counter-demo/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/demos/mui-demo/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/demos/redux-counter/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/user/detail/[id]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/user/join/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/app/pages/user/list/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/next.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/img/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/redux/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/redux/reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/redux/redux-provider.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2eaCyo0ckfLganLz7bKz8jeVUMd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AIA/kubernetes/user-server/backend",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48565cc2-591f-481f-a748-d2ed898461c6" name="Changes" comment="" />
+      <created>1712133559922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712133559922</updated>
+      <workItem from="1712133560911" duration="4000" />
+      <workItem from="1712133571674" duration="51000" />
+      <workItem from="1714369778172" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
